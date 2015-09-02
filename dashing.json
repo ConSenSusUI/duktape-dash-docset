@@ -1,0 +1,13 @@
+{
+    "name": "Duktape",
+    "package": "duktape",
+    "index": "api.html",
+    "selectors": {
+        "h1.sectiontitle:not(.apih1)": "Guide",
+        "h1.apih1>a:first-of-type": "Function"
+    },
+    "ignore": [
+    ],
+    "icon32x32": "",
+    "allowJS": false
+}
